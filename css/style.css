@@ -103,7 +103,7 @@
   /* Hero image and title */
 
   #hero-image {
-      background-image: url(/images/hero-image-small.jpg);
+      background-image: url(images/hero-image-small.jpg);
       background-size: 100%;
       background-position-y: 70%;
       background-repeat: no-repeat;
